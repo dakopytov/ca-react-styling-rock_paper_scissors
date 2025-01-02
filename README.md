@@ -1,7 +1,7 @@
 # Codecademy-react-styling-rock_paper_scissors
 
 ## Table of contents
-- [Codecademy: Tea Cozy](#Codecademy-Tea-Cozy)
+- [Codecademy: Styling Rock, Paper, Scissors](#Codecademy-react-styling-rock_paper_scissors)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
